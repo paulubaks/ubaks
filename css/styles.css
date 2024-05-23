@@ -1,0 +1,138 @@
+.top-container {
+   background-color:#CAF4FF;
+   position:relative;
+   padding-top:100px;
+}
+body{
+    background-color:F1F1F1;
+    text-align:center;
+    margin:0;
+    font-family: "playfair display";
+}
+.name{
+   font-size:90px;
+   margin:50px,auto,0,auto
+}
+
+h1 {
+   margin-top:0;
+   color:#66bfbf;
+   font-size:50px;
+   font-family:sacramento;
+   
+}
+h3{
+   color:#40A578;
+   font-family:"playfair display";
+
+
+}
+.cloud1 {
+    position:absolute;
+    right:200px;
+    bottom:400px;
+
+}
+.cloud2 {
+    position:absolute;
+}
+
+.middle-container {
+     padding-top:100px;
+
+}
+.hi{
+ color:#66bfbf;
+ font-size:50px;
+}
+.hip{
+
+   padding-bottom:100px;
+}
+.my_skills{
+    padding-top:60px;
+    color:#66bfbf;
+    padding-bottom:0;
+
+}
+
+}
+.breaker {
+    font-size:50px;
+    color:grey;
+}
+.work{
+   max-width:300px;
+}
+.table{
+   margin-left:auto;
+   margin-right:auto;
+   padding-top:0;
+}
+.skillp {
+  color:black;
+}
+
+.skills{
+  font-size:50px;
+    color:#66bfbf;
+}
+.img2 {
+   max-width:300px
+}
+.need{
+  color:black;
+}
+.service{
+  padding-top:60px;
+  color:#66bfbf;
+  font-size:35px
+}
+.btn{
+
+ background-color: #57A6A1; /* Green */
+  border: 8px;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+.btn:hover{
+   background-color:grey
+}
+
+.bottom-container {
+   background-color:#CAF4FF;
+   position:relative;
+   padding-bottom:50px;
+
+
+
+}
+.down-table {
+
+   margin-left:auto;
+   margin-right:auto;
+   padding-top:0;
+}
+.link {
+
+text-decoration: none;
+display: inline-block;
+color: #57A6A1;
+
+}
+.link:hover{
+    color:grey;
+}
+
+.copyright{
+  color: #57A6A1;
+}
+
+.mountain{
+
+}
